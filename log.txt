@@ -1,0 +1,48 @@
+
+------------------------------------------------------------
+
+These are the information about the movie AVENGERS ENDGAME:
+
+	Movie: Avengers: Endgame
+	Year Released: 2019
+	iMDB Rating: 8.7
+	Rotten Tomatoes Rating: 94%
+	Country: USA
+	Language: English, Japanese, Xhosa
+	Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+	Plot: After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.
+
+------------------------------------------------------------
+
+The information about the music PARADINHA is here:
+
+	Artists: Anitta
+	Song Name: Paradinha
+	Album Name: Paradinha
+	Song Preview Link: https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs
+
+------------------------------------------------------------
+
+The information about the music "I WANT IT THAT WAY" is here:
+
+	Artists: Backstreet Boys
+	Song Name: I Want It That Way
+	Album Name: The Hits--Chapter One
+	Song Preview Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+------------------------------------------------------------
+
+The next concert of CELINE DION is:
+
+	Venue Name: Videotron Centre
+	Venue Location: Quebec, 
+	Event Date: 09/18/2019
+
+------------------------------------------------------------
+
+The information about the music DISK ME is here:
+
+	Artists: Pabllo Vittar
+	Song Name: Disk Me
+	Album Name: Não Para Não
+	Song Preview Link: https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD
