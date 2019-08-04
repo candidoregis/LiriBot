@@ -45,7 +45,7 @@ function concertThis(artist) {
 
             // If data comes empty
             if (data == 0) {  //need to review this one
-                concertData = "There's no concert scheduled yet.\n";
+                concertData = "\tThere's no concert scheduled yet.\n";
             } else {
                 var date = data[0].datetime;
                 var format = "YYYY-MM-DDThh:mm:ss";
@@ -93,7 +93,7 @@ function spotifyThisSong(song) {
             var songData;
 
             if (data == 0) {  //need to review this one
-                songData = "There's no music like this.\n";
+                songData = "\tThere's no music like this.\n";
             } else {
 
                 // Creating a variable with all data required to use on print/save

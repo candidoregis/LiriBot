@@ -1,6 +1,21 @@
 
 ------------------------------------------------------------
 
+The next concert of DRAKE is:
+
+	There's no concert scheduled yet.
+
+
+------------------------------------------------------------
+
+The next concert of IMAGINE DRAGONS is:
+
+	Venue Name: Pro Football Hall of Fame
+	Venue Location: Canton, OH
+	Event Date: 08/04/2019
+
+------------------------------------------------------------
+
 These are the information about the movie AVENGERS ENDGAME:
 
 	Movie: Avengers: Endgame
@@ -14,12 +29,30 @@ These are the information about the movie AVENGERS ENDGAME:
 
 ------------------------------------------------------------
 
-The information about the music PARADINHA is here:
+The information about the music FLASH POSE is here:
 
-	Artists: Anitta
-	Song Name: Paradinha
-	Album Name: Paradinha
-	Song Preview Link: https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs
+	Artists: Pabllo Vittar
+	Song Name: Flash Pose
+	Album Name: Flash Pose
+	Song Preview Link: https://open.spotify.com/track/5GsJcnO3rgpZFOrzL2EISO
+
+------------------------------------------------------------
+
+The information about the music TURU TURU is here:
+
+	Artists: Sandy & Junior
+	Song Name: Quando Você Passa (Turu Turu)
+	Album Name: Sandy & Júnior
+	Song Preview Link: https://open.spotify.com/track/1LNroGH4W4RsUVjIFUsrUA
+
+------------------------------------------------------------
+
+The information about the music THE SIGN is here:
+
+	Artists: Ace of Base
+	Song Name: The Sign
+	Album Name: The Sign (US Album) [Remastered]
+	Song Preview Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
 
 ------------------------------------------------------------
 
@@ -29,20 +62,3 @@ The information about the music "I WANT IT THAT WAY" is here:
 	Song Name: I Want It That Way
 	Album Name: The Hits--Chapter One
 	Song Preview Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-
-------------------------------------------------------------
-
-The next concert of CELINE DION is:
-
-	Venue Name: Videotron Centre
-	Venue Location: Quebec, 
-	Event Date: 09/18/2019
-
-------------------------------------------------------------
-
-The information about the music DISK ME is here:
-
-	Artists: Pabllo Vittar
-	Song Name: Disk Me
-	Album Name: Não Para Não
-	Song Preview Link: https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD
